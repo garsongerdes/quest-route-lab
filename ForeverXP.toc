@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: ForeverXP
+## Notes: A small in-game interface prototype for an informational leveling guide.
+## Author: Quest Route Lab
+## Version: 0.1.0
+
+ForeverXP.lua
